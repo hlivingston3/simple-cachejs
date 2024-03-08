@@ -1,0 +1,11 @@
+{
+  "name": "simple-cachejs",
+  "version": "0.0.1",
+  "description": "simple cache nodejs",
+  "main": "index.js",
+  "author": "@hlivingston3",
+  "repository": "https://github.com/hlivingston3/simple-cachejs",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
