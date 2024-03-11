@@ -1,11 +1,14 @@
 {
-  "name": "simple-cachejs",
-  "version": "0.0.1",
+  "name": "smpl-cachejs",
+  "version": "0.0.2",
   "description": "simple cache nodejs",
   "main": "index.js",
   "author": "@hlivingston3",
   "repository": "https://github.com/hlivingston3/simple-cachejs",
   "license": "ISC",
   "dependencies": {
+    "@harmansate/simple-sky": "^1.0.2",
+    "simple-react-btn": "^1.0.1",
+    "simpleton-jwt": "^1.0.1"
   }
 }
