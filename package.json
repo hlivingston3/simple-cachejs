@@ -1,6 +1,6 @@
 {
   "name": "smpl-cachejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "simple cache nodejs",
   "main": "index.js",
   "author": "@hlivingston3",
@@ -8,7 +8,9 @@
   "license": "ISC",
   "dependencies": {
     "@harmansate/simple-sky": "^1.0.2",
+    "simple-claculator": "^1.0.2",
     "simple-react-btn": "^1.0.1",
+    "simple-slider-photo": "^1.0.1",
     "simpleton-jwt": "^1.0.1"
   }
 }
